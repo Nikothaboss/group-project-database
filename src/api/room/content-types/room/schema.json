@@ -4,7 +4,8 @@
   "info": {
     "singularName": "room",
     "pluralName": "rooms",
-    "displayName": "room"
+    "displayName": "room",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -25,6 +26,9 @@
     },
     "available": {
       "type": "boolean"
+    },
+    "number": {
+      "type": "integer"
     }
   }
 }
