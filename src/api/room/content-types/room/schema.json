@@ -26,5 +26,12 @@
     },
     "available": {
       "type": "boolean"
+    },
+    "room_details": {
+      "type": "json"
+    },
+    "number": {
+      "type": "integer"
     }
-}}
+  }
+}
