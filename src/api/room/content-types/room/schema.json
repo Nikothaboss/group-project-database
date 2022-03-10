@@ -27,7 +27,14 @@
     "available": {
       "type": "boolean"
     },
+<<<<<<< HEAD
     "kakaka": {
+=======
+    "number": {
+      "type": "integer"
+    },
+    "room_details": {
+>>>>>>> dd8ccf71ea1ad0734c839f80e76a7b4b032d8095
       "type": "json"
     }
   }
